@@ -1,3 +1,6 @@
-# this script collects the json metadata from KC portal
+# Research Catalogue Portal Metadata export script
+
+This is a script that allows you to export the metadata of your/a portal in the Research Catalogue.
+
 
 
